@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![akagaeng's github stats](https://github-readme-stats.akagaeng.vercel.app/api?username=akagaeng&count_private=true&show_icons=true&theme=default)](https://github.com/akagaeng/github-readme-stats)
+<br />
+
+[![GitHub stats](https://github-readme-stats.akagaeng.vercel.app/api?username=akagaeng&count_private=true&show_icons=true&theme=default)](https://github.com/akagaeng/github-readme-stats)
+
+<br />
 
 [![Top Langs](https://github-readme-stats.akagaeng.vercel.app/api/top-langs/?username=akagaeng&layout=compact)](https://github.com/akagaeng/github-readme-stats)
