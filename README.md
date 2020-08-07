@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.akagaeng.vercel.app/api/top-langs/?username=akagaeng&layout=compact)](https://github.com/akagaeng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.akagaeng.vercel.app/api/top-langs/?username=akagaeng&layout=compact&card_width=400)](https://github.com/akagaeng/github-readme-stats)
