@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.akagaeng.vercel.app/api/top-langs/?username=akagaeng&layout=compact&card_width=445)](https://github.com/akagaeng/github-readme-stats)
 
-## References
+## See me also in
 
 * https://stackshare.io/akagaeng
