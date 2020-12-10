@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* https://stackshare.io/akagaeng
+
 <br />
 
 [![GitHub stats](https://github-readme-stats.akagaeng.vercel.app/api?username=akagaeng&count_private=true&show_icons=true&theme=default)](https://github.com/akagaeng/github-readme-stats)
