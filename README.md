@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ## See me also in
 
 * https://stackshare.io/akagaeng
+* https://akagaeng.github.io
+* https://www.linkedin.com/in/kyeongsy/
